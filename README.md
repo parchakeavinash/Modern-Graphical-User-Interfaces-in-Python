@@ -2,10 +2,8 @@
 
 import customtkinter
 from CTkMessagebox import CTkMessagebox
-# Set the background color to light blue
-customtkinter.set_default_color_theme("green")
 
-# Set the appearance mode to dark
+customtkinter.set_default_color_theme("green")
 customtkinter.set_appearance_mode("Dark")
 
 root_ct = customtkinter.CTk()  
